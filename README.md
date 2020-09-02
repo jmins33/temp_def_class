@@ -1,4 +1,6 @@
-## Table of Contents
+## 함수 생성 및 Class 예제 연습
+ 
+### Table of Contents 쓰는법
 
 - 강조가 하고 싶으면 `강조` 앞뒤로 백틱
 
